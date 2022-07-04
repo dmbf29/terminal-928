@@ -1,0 +1,39 @@
+# pwd
+present working directory -> where am i?
+
+# ls / ll
+shows the content of the folder i'm in
+
+# cd folder_name
+moves into the folder
+
+# cd ..
+moves backwards
+
+# ~
+move home
+
+# mkdir name
+creates folder
+
+# touch name.ext
+creates file
+
+# rm filname
+# rm -r folder_name
+delete
+
+# code .
+opens VS code from the same folder
+
+# ctrl + t
+open a tab in Terminal
+
+# ctrl + l
+clear the Terminal
+
+# mv index.html home.html
+rename the file
+
+# mv file_name folder_name
+move the file
