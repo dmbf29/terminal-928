@@ -37,3 +37,9 @@ rename the file
 
 # mv file_name folder_name
 move the file
+
+# ctrl + a
+goest to the beginning of the line
+
+# ctrl + e
+goest to the end of the line
