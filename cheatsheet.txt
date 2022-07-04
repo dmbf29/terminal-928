@@ -43,3 +43,6 @@ goest to the beginning of the line
 
 # ctrl + e
 goest to the end of the line
+
+# ctrl + u
+deletes everything before that on the line
